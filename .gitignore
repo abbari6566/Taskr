@@ -37,3 +37,13 @@ htmlcov/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Redis dump file 
+dump.rdb
+
+# Test output
+*.xml
+junit/
+
+# Byte-compiled 
+*.pyo
