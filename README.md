@@ -95,5 +95,3 @@ taskr/
 ![Dashboard](demo1.jpg)
 
 ![Tasks & Queue](demo2.jpg)
-
-![Terminal Output](demo3.jpg)
